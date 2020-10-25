@@ -1,0 +1,8 @@
+c:\users\s4lsalsoft\documents\visual studio 2013\Projects\SAMPInjector\SAMPInjector\bin\Release\SAMPInjector.dll
+c:\users\s4lsalsoft\documents\visual studio 2013\Projects\SAMPInjector\SAMPInjector\bin\Release\SAMPInjector.pdb
+c:\users\s4lsalsoft\documents\visual studio 2013\Projects\SAMPInjector\SAMPInjector\bin\Release\SAMPInjector.xml
+c:\users\s4lsalsoft\documents\visual studio 2013\Projects\SAMPInjector\SAMPInjector\obj\Release\SAMPInjector.Resources.resources
+c:\users\s4lsalsoft\documents\visual studio 2013\Projects\SAMPInjector\SAMPInjector\obj\Release\SAMPInjector.vbproj.GenerateResource.Cache
+c:\users\s4lsalsoft\documents\visual studio 2013\Projects\SAMPInjector\SAMPInjector\obj\Release\SAMPInjector.dll
+c:\users\s4lsalsoft\documents\visual studio 2013\Projects\SAMPInjector\SAMPInjector\obj\Release\SAMPInjector.xml
+c:\users\s4lsalsoft\documents\visual studio 2013\Projects\SAMPInjector\SAMPInjector\obj\Release\SAMPInjector.pdb
