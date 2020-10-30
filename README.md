@@ -1,5 +1,5 @@
 # SAMP-Dll-Injector
-Injector For SAMP [San Andreas Multi-Player] | Plugin For [Udrakoloader](https://www.blast.hk/threads/67473/)
+Injector For SAMP [San Andreas Multi-Player] | Plugin For [UdrakoLoader](https://github.com/DestroyerDarkNess/Udrakoloader)
 
 SAMP Injector is a Made add-on for Udrakoloader. 
 
